@@ -1,0 +1,10 @@
+name: floods
+title:
+username: sytonfloods
+account: sytonfloods
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13119341
+bundleId: 9295707
+url: https://sytonfloods.shinyapps.io/floods/
+version: 1
